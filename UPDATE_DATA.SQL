@@ -1,3 +1,0 @@
-UPDATE Employee_Table
-SET SALARY = 100000.00
-WHERE FIRST_NAME = 'John' AND LAST_NAME = 'Doe';

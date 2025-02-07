@@ -1,0 +1,4 @@
+SELECT e.EMP_ID, e.FIRST_NAME, e.LAST_NAME, d.DEPT_ID, d.DEPARTMENT
+FROM Employee_Table e
+RIGHT JOIN Department_Table d
+ON e.DEPT_ID = d.DEPT_ID;

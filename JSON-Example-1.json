@@ -1,0 +1,15 @@
+{
+    "first_name": "SAYAN",
+    "last_name": "NAHA",
+    "age": 25,
+    "years_of_exp": 3.5,
+    "skills": ["Java", "JavaScript", "Python", "Guidewire"],
+    "contact_details":
+    {
+        "phone": 8910049081,
+        "email": "officialsnaha@gmail.com"
+    },
+    "date_of_joining": "08/01/2025",
+    "academics": [89, 81, 83.5],
+    "colleges": ["NAVA NALANDA HIGH SCHOOL", "CALCUTTA INSTITUTE OF ENGINEERING AND MANAGEMENT"]
+}
